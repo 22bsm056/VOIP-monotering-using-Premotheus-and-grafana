@@ -1,4 +1,5 @@
 # VOIP-monotering-using-Premotheus-and-grafana
+#please download and read monoter-asterisk-using grafana.pdf for clear visibility
 
 Detailed Documentation: Monitoring
 Asterisk Performance with Grafana,
